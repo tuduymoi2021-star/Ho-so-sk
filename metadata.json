@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Sổ Sức Khỏe Điện Tử Mầm Non",
+  "description": "Hệ thống quản lý sức khỏe học đường dành cho trường mầm non, hỗ trợ nhân viên y tế và cán bộ quản lý theo dõi chỉ số tăng trưởng và sức khỏe của trẻ từ 3-36 tháng tuổi.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
